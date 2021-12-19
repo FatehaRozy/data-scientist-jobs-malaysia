@@ -53,4 +53,3 @@ The process involved in this project includes:
 
 [^1]: Indeed URL: https://malaysia.indeed.com/jobs?q=data+scientist&l=Malaysia&start=0
 [^2]: Wordcloud EDA reference: https://github.com/PlayingNumbers/ds_salary_proj/blob/master/data_eda.ipynb
-
